@@ -13,6 +13,7 @@ Group:		    System/Libraries
 URL:		    http://www.recursism.com/pub/software/testing/gnu-autounit
 Source:		    http://www.recursism.com/pub/files/%{name}-%{version}.tar.bz2
 BuildRequires:	glib-devel
+BuildRoot:	    %{_tmppath}/%{name}-%{version}
 
 %description
 GNU Autounit's goal is to provide a common unit testing framework for
