@@ -1,6 +1,6 @@
 %define name	autounit
 %define version	0.20.1
-%define release	%mkrel 3
+%define release	%mkrel 4
 %define	major	2
 %define	libname	%mklibname %{name} %{major}
 
