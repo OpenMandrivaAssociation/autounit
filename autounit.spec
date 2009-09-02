@@ -43,7 +43,7 @@ This package contains development files for %{name}.
 %setup -q
 
 %build
-%configure
+%configure2_5x
 %make
 
 %install
