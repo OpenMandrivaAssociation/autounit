@@ -10,7 +10,7 @@ Release:	    %{release}
 License:	    GPL
 Summary:	    C testing framework
 Group:		    System/Libraries
-URL:		    http://www.recursism.com/pub/software/testing/gnu-autounit
+URL:		    https://www.recursism.com/pub/software/testing/gnu-autounit
 Source:		    http://www.recursism.com/pub/files/%{name}-%{version}.tar.bz2
 BuildRequires:	glib-devel
 
